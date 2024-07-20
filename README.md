@@ -19,21 +19,4 @@ Members can access their payment receipts and notifications, while users have fe
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> 
 
-## Unified Mentor Internship
 
-This project is conducted as part of an internship program provided by [Unified Mentor](https://www.linkedin.com/company/unifiedmentor/posts/?feedView=all)
-
-As an intern, I Have receive mentorship and guidance from experienced industry professionals and skilled student mentors. 
-
-This mentorship aims to support your growth in software development, providing valuable insights and feedback throughout the project lifecycle.
-
-## Special Thanks
-
-I would like to extend our heartfelt thanks to [Unified Mentor](https://www.linkedin.com/company/unifiedmentor/posts/?feedView=all) for providing the opportunity and support for this internship project. 
-
-
-# Contribution
-
-Contributions to enhance this project are welcome! If you have ideas for improvements or new features, please feel free to fork this repository and submit a pull request. 
-
-Please adhere to coding standards, provide clear commit messages, and ensure adequate test coverage.
